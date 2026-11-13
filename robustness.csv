@@ -1,0 +1,4 @@
+scenario,alerts,disagreements_vs_original
+Original,17,0
+20% missing,14,3
+Temp +3 C,21,6

@@ -1,0 +1,4 @@
+contamination,test_alerts,test_alert_rate_pct
+0.02,2,1.1
+0.05,17,9.39
+0.1,37,20.44
